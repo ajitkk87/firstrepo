@@ -8,6 +8,7 @@ public class RestwsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RestwsApplication.class, args);
+		System.out.println("RestWSApplication is up and running now.");
 	}
 
 }
