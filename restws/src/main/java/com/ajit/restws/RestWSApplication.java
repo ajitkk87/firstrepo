@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestwsApplication {
+public class RestWSApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestwsApplication.class, args);
+		SpringApplication.run(RestWSApplication.class, args);
 		System.out.println("RestWSApplication is up and running now.");
 	}
 
